@@ -1,0 +1,35 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Camiseta básica",
+        "descricao": "Camisetas sem estampa e com cores variadas",
+        "preco": 29.99
+      },
+      {
+        "id": 2,
+        "nome": "Calça Jeans",
+        "descricao": "Calças jeans de alta qualidade",
+        "preco": 49.99
+      },
+      {
+        "id": 3,
+        "nome": "Jaqueta de Couro",
+        "descricao": "Jaqueta com couro de alta qualidade",
+        "preco": 229.99
+      },
+      {
+        "id": 4,
+        "nome": "Bermuda de tactel",
+        "descricao": "Bermudas simples em tactel com cores variadas",
+        "preco": 19.99
+      },
+      {
+        "id": 5,
+        "nome": "Kit com 3 pares de meias",
+        "descricao": "Pacote que contém 3 pares de meias. As cores dos pares serão variadas, conforme disponibilidade.",
+        "preco": 24.99
+      }
+     
+    ]
+  }

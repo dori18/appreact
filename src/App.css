@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .App {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 15px;
+  }
+  
+  strong {
+    color: #333;
+  }
+  
+  button {
+    background-color: #00bcd4;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #008ba3;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 10px;
+    width: 50px;
+  }
+  
+  p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #555;
+  }
+  button.ver-detalhes {
+    margin-left: 10px; 
+  }  
+  button .exibir-menos-detalhes {
+    margin-bottom: 15px;
+  }
+
+  .mensagem-finalizacao {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border-radius: 4px;
+  }

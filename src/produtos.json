@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "nome": "Ração para gatos Filhotes",
+      "descricao": "Ração recomendada para gatos filhotes (2 meses a 12 meses). Pacote contém 3kg.",
+      "preco": 49.99
+    },
+    {
+      "id": 2,
+      "nome": "Ração Premium para gatos Adultos",
+      "descricao": "Ração recomendada para gatos adultos (de 1 ano a 12 anos). Pacote contém 3kg.",
+      "preco": 59.99
+    },
+    {
+      "id": 3,
+      "nome": "Ração Sênior para gatos",
+      "descricao": "Ração recomendada para gatos idosos (a partir dos 12 anos). Pacote contém 3kg.",
+      "preco": 64.99
+    }
+  ]
